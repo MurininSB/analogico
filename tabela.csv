@@ -1,7 +1,7 @@
 ,Valores  reais 1 dia,
 Frequencia,Ganho do filtro em dB,Ganho do Filtro em V/V
 10 Hz,-78.41,0.00012
-20 Hz,-58,0.00126
+20 Hz,-58.0,0.00126
 30 Hz,-57.13,0.00139
 40 Hz,-54.70,0.00184
 50 Hz,-53.85,0.00203
